@@ -8,23 +8,43 @@
 
 ---
 
-- 🔭 Currently working on **Flutter-based mobile applications**
-- 🌱 Learning more about **clean architecture, animations, and performance optimization in Flutter**
-- 💬 Ask me about **Flutter, Firebase, and cross-platform development**
-- 📫 Reach me at **bhargav.h.vagadiya@gmail.com**
-- ⚡ Fun fact: I write better Dart code than I cook 🍝
+🚀 **About Me**
+
+I'm a passionate Flutter developer with over 3 years of experience crafting high-quality, user-centric mobile applications. I love building smooth, scalable, and intuitive mobile experiences.
+
+Currently, I work with cross-functional teams to deliver seamless digital solutions — and contribute to the Flutter community through open-source.
 
 ---
 
-### 🛠️ Tech Stack
+🧑‍💻 **Open Source Contribution**
 
-- **Languages:** Dart, Java, Kotlin, JavaScript
-- **Frameworks & Tools:** Flutter, Firebase, Git, REST APIs, Provider, Bloc
-- **Platforms:** Android, iOS
+- 💡 Contributor to [**any_link_preview**](https://pub.dev/packages/any_link_preview) — a popular Flutter package for generating customizable link previews. Helped improve features and performance.
 
 ---
 
-### 📈 GitHub Stats
+🛠️ **Tech Stack**
+
+- **Languages:** Dart, Java, Kotlin, JavaScript  
+- **Frameworks & Tools:** Flutter, Firebase, REST APIs, Git, Provider, Bloc, GetX  
+- **Platforms:** Android, iOS  
+- **Practices:** Clean Architecture, Modular Code, Reusable Components  
+
+---
+
+📂 **Featured Projects**
+
+- [**Exercise Manager App**](https://github.com/bhargav-vagadiya/monkeybox-bhargav-vagadiya-flutter-dev)  
+  A user-friendly fitness app allowing users to create, manage, and search personalized workout plans. Uses `Provider` for state management and `Sqflite` for offline storage.
+
+- [**Sample Pet App**](https://github.com/bhargav-vagadiya/sample_pet_app)  
+  A Flutter app to view and update pet information. Powered by `GetX` for state management and `OpenAPI Generator` for API integration.
+
+- [**Clean Architecture Flutter**](https://github.com/bhargav-vagadiya/clean_architecture_flutter)  
+  A solid Flutter starter template following clean architecture principles with domain separation and testability in mind.
+
+---
+
+📈 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhargav-vagadiya&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -34,11 +54,12 @@
 
 ---
 
-### 📫 Let's Connect
+📫 **Let's Connect**
 
 - 💼 [LinkedIn](https://in.linkedin.com/in/bhargavvagadiya)  
-- 💻 [GitHub](https://github.com/bhargav-vagadiya)
+- 💻 [GitHub](https://github.com/bhargav-vagadiya)  
+- 📧 Email: bhargav.h.vagadiya@gmail.com  
 
 ---
 
-_Thanks for stopping by! ⭐ Feel free to check out my repositories and connect!_
+_Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or chat tech!_
