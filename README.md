@@ -44,16 +44,6 @@ Currently, I work with cross-functional teams to deliver seamless digital soluti
 
 ---
 
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargav-vagadiya&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav-vagadiya&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 📫 **Let's Connect**
 
 - 💼 [LinkedIn](https://in.linkedin.com/in/bhargavvagadiya)  
